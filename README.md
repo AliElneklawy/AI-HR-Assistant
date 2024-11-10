@@ -1,5 +1,4 @@
 # AI HR Assistant
-# HR Assistant Chatbot
 
 An intelligent HR assistant chatbot designed to streamline HR processes and enhance user experience. Powered by advanced NLP capabilities with Google Gemini-Pro, Sentence Transformers for document embeddings, and an interactive Gradio interface, this chatbot serves as a comprehensive solution for HR-related interactions.
 
