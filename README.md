@@ -12,6 +12,7 @@ An intelligent HR assistant chatbot designed to streamline HR processes and enha
 - **Leave Request Management**: Allows users to submit and process leave requests through the chatbot.
 - **HR Analytics**: Generates HR statistics and visualizations for actionable insights.
 - **User-Friendly Interface**: Provides a smooth, interactive experience using Gradio.
+- **Customization**: The bot can be trained on your own data for more customization.
   
 ---
 
