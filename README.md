@@ -1,5 +1,7 @@
 # AI HR Assistant
 
+![image](https://github.com/user-attachments/assets/b0a830b2-4353-43df-80d0-eacd3f3f869d)
+
 An intelligent HR assistant chatbot designed to streamline HR processes and enhance user experience. Powered by advanced NLP capabilities with Google Gemini-Pro, Sentence Transformers for document embeddings, and an interactive Gradio interface, this chatbot serves as a comprehensive solution for HR-related interactions.
 
 [Check out the project on Hugging Face](https://huggingface.co/spaces/alielneklawy/HR_Assistant)
