@@ -40,18 +40,19 @@ An intelligent HR assistant chatbot designed to streamline HR processes and enha
 To set up the project locally, follow these steps:
 
 1. Clone the repository.
+   
    ```bash
    git clone https://github.com/your-username/HR_Assistant_Chatbot.git
    cd HR_Assistant_Chatbot
 
-2. Install the necessary packages.
-  ```bash
-  pip install -r requirements.txt
-```
+3. Install the necessary packages.
+    ```bash
+    pip install -r requirements.txt
+    ```
 3. Run the application.
-   ```bash
-   python app.py
-   ```
+    ```bash
+     python app.py
+     ```
 
 
 
